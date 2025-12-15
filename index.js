@@ -81,6 +81,13 @@ function myFunction() {
                   document.getElementById("Link8").innerHTML = text;
             break;
 
+            case "Hoang Anh Nguyen":
+                  person = "Người được chọn: anh Đức & chị Hoàng Anh";
+                  text = ">>Nhấp vào đây<<";
+                  document.getElementById("Text").innerHTML = person; 
+                  document.getElementById("Link8").innerHTML = text;
+            break;
+
             case "Thanhhuyen Nguyen":
                   person = "Người được chọn: bố Bình & mẹ Huyền";
                   text = ">>Nhấp vào đây<<";
